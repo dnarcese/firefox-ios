@@ -5041,7 +5041,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				D04CD74A216CF86B004FF5B0 /* SiriShortcuts.swift in Sources */,
-				238DC6292460850A00BC9EFF /* TabTrayControllerv2.swift in Sources */,
 				EB9A179F20E6C1A200B12184 /* ThemedWidgets.swift in Sources */,
 				E68E39BE1C46F42000B85F42 /* AppSettingsTableViewController.swift in Sources */,
 				E640E86A1C73A47C00C5F072 /* PasscodeViews.swift in Sources */,
